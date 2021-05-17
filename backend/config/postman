@@ -1,0 +1,20 @@
+#insert data using postman
+#upload user
+{
+    "name":"tramnguyen",
+    "password":"1234567890.test",
+    "Fullname":"Nguyen Huu Ngoc Tram",
+    "UserAddress":"TPHCM",
+    "Birth":"19/12/1999",
+    "Gmail":"1754050094tram@ou.edu.vn"
+}
+
+#upload cart
+{
+   "idCategory":"ad954d69-426a-45d4-8987-2b979d27490b",
+            "nameShoes":"Giày running nam 5150 AM Grey/Elastic",
+            "price":"899,000",
+            "Adress":"63 Nguyễn Thị Minh Khai, Quận 1, TP.HCM",
+            "image":"https://sport1.vn/products/giay-running-nam-5150-am-grey-elastic"
+}
+
